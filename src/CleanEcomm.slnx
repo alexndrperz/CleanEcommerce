@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CleanEcomm.Domain\CleanEcomm.Domain.csproj" />
+  <Project Path="CleanEcomm.Application\CleanEcomm.Application.csproj" />
+  <Project Path="CleanEcomm.Infrastructure\CleanEcomm.Infrastructure.csproj" />
+  <Project Path="CleanEcomm.API\CleanEcomm.API.csproj" />
+</Solution>
