@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanEcomm.API.Controllers {
-    [Route("api/orderd")]
+    [Route("api/orders")]
     [ApiController]
     public class OrdersController : ControllerBase {
 
